@@ -274,6 +274,7 @@ compress_html:
     envs: development
 
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Defaults
 defaults:
@@ -288,4 +289,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  
