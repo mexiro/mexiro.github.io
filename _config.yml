@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Erion Maxhari"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I work here"
   location         : "Somewhere"
-  email            :
+  email            : "mexiro@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -273,6 +273,7 @@ compress_html:
   ignore:
     envs: development
 
+theme: minimal-mistakes-jekyll
 
 # Defaults
 defaults:
@@ -287,3 +288,4 @@ defaults:
       comments: # true
       share: true
       related: true
+  
